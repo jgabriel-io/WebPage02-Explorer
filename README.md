@@ -15,21 +15,21 @@ A página "Treine me" foi criada como um exercício prático para aprimorar habi
 
 ### 📚 Estruturação HTML
 
-1. **Tags Semânticas:** Uso adequado de tags semânticas (**`<header>`**, **`<nav>`**, **`<main>`**, **`<section>`**, **`<footer>`**) para criar uma estrutura clara e compreensível.
-2. **Atributos Alt em Imagens:** Utilização de atributos **`alt`** em imagens para melhor acessibilidade.
+- **Tags Semânticas:** Uso adequado de tags semânticas (**`<header>`**, **`<nav>`**, **`<main>`**, **`<section>`**, **`<footer>`**) para criar uma estrutura clara e compreensível.
+- **Atributos Alt em Imagens:** Utilização de atributos **`alt`** em imagens para melhor acessibilidade.
 
 ### 🎨 Estilização com CSS
 
-1. **Estilo e Layout:** Definição de estilos para os elementos da página, como cores, fontes, espaçamentos e disposição dos elementos.
-2. **Efeito de Hover:** Implementação de efeitos de hover nos links e botão para melhorar a interatividade.
-3. **Uso de Gradientes:** Aplicação de gradientes no fundo da página para um visual mais atraente.
-4. **Posicionamento Fixo:** Uso de **`position: fixed;`** para posicionar elementos específicos na página.
-5. **Seletores e Propriedades CSS:** Exemplo de seletores e propriedades CSS como **`display`**, **`justify-content`**, **`align-items`**, entre outros.
+- **Estilo e Layout:** Definição de estilos para os elementos da página, como cores, fontes, espaçamentos e disposição dos elementos.
+- **Efeito de Hover:** Implementação de efeitos de hover nos links e botão para melhorar a interatividade.
+- **Uso de Gradientes:** Aplicação de gradientes no fundo da página para um visual mais atraente.
+- **Posicionamento Fixo:** Uso de **`position: fixed;`** para posicionar elementos específicos na página.
+- **Seletores e Propriedades CSS:** Exemplo de seletores e propriedades CSS como **`display`**, **`justify-content`**, **`align-items`**, entre outros.
 
 ### 👍 Boas Práticas
 
-1. **Organização do Código:** Separação de estilos em um arquivo CSS externo para uma melhor manutenção e organização do código.
-2. **Responsividade:** No entanto, a página ainda pode ser melhorada para se tornar responsiva e adaptar-se a diferentes tamanhos de tela.
+- **Organização do Código:** Separação de estilos em um arquivo CSS externo para uma melhor manutenção e organização do código.
+- **Responsividade:** No entanto, a página ainda pode ser melhorada para se tornar responsiva e adaptar-se a diferentes tamanhos de tela.
 
 ---
 
