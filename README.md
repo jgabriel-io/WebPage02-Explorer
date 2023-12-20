@@ -31,6 +31,8 @@ A página "Treine me" foi criada como um exercício prático para aprimorar habi
 - **Organização do Código:** Separação de estilos em um arquivo CSS externo para uma melhor manutenção e organização do código.
 - **Responsividade:** No entanto, a página ainda pode ser melhorada para se tornar responsiva e adaptar-se a diferentes tamanhos de tela.
 
+Este projeto visa destacar a criação de ambientes exclusivos e bem decorados. Foi desenvolvido como uma prática de HTML e CSS para criar uma página web simples e atraente.
+
 ---
 
 Desenvolvido por João Gabriel | [Linkedin](https://www.linkedin.com/in/jgabriel522/) | 22/11/2023
